@@ -9,3 +9,4 @@ Usage examples:
 python3 scan_network.py 192.168.1.0/24
 python3 scan_network.py 192.168.1.0/24 --resolve
 python3 scan_network.py 10.0.0.0/24 --workers 200
+
